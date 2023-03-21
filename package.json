@@ -1,0 +1,22 @@
+{
+  "name": "price-diff",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "vue": "^3.2.45",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "naive-ui": "^2.34.3",
+    "vfonts": "^0.0.3",
+    "vite": "^4.1.0"
+  }
+}
