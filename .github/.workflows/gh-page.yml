@@ -1,7 +1,7 @@
 name: deploy page
 on:
   push:
-    branches: [master]
+    branches: master
 
 jobs:
   deploy-doc:
