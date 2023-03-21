@@ -498,6 +498,7 @@ function clearAll(tableEx) {
                   :style="{ height: `${table1Ex.height}px` }"
                   flex-height
               />
+
             </n-space>
             <template #action>
               <n-space justify="end">
